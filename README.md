@@ -17,9 +17,10 @@ JDBC (Java Database Connectivity): Used for database connectivity and data retri
 JSP (JavaServer Pages): Used for dynamic web page generation and client-side interactions.
 Eclipse IDE: Development environment used for coding and debugging.
 Bootstrap: Frontend framework used for responsive web design.
-Installation and Setup
-Clone the Repository:
 
+### Installation and Setup
+
+Clone the Repository:
 bash
 Copy code
 git clone https://github.com/your-repo/degree-direct-consultancy.git
