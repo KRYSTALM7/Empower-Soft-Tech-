@@ -34,7 +34,7 @@ Update the database connection details in the project's configuration files.
 Running the Application:
 
 Run the application on a local server using Eclipse IDE.
-Access the application via http://localhost:8080/degree-direct-consultancy.
+Access the application 
 
 ## Usage
 Client Registration: Clients can create an account to access the platform.
