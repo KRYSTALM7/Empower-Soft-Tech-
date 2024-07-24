@@ -42,7 +42,7 @@ Program Browsing: Clients can search for master's programs based on their intere
 Application Submission: Clients can apply for programs and upload necessary documents.
 Status Tracking: Clients can track the status of their applications and receive updates.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
