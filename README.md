@@ -45,6 +45,6 @@ Status Tracking: Clients can track the status of their applications and receive 
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Acknowledgments
+# Acknowledgments
 We want to thank Empower Soft-Tech for allowing us to work on this project—special thanks to our mentor Akash Sir and  teammate Suraj for their support and guidance.
 
