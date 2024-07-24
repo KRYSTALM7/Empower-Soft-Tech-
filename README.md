@@ -28,7 +28,8 @@ Open in Eclipse IDE:
 
 Import the project into Eclipse IDE.
 Ensure you have the necessary Java and JDBC libraries installed.
-Database Setup:
+
+#### Database Setup:
 
 Set up the database with the required schema and tables.
 Update the database connection details in the project's configuration files.
